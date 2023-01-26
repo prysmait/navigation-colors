@@ -1,59 +1,59 @@
 {
-    "layout-1" : {
+    "Layout 1" : {
         "primary_txt" : "#fff",
         "primary_bg" : "#0077B6",
         "secondary_txt" : "#fff",
         "secondary_bg" : "#7e7f80"
     },
-    "layout-2" : {
+    "Layout 2" : {
         "primary_txt" : "#fff",
         "primary_bg" : "#92000A",
         "secondary_txt" : "#404040",
         "secondary_bg" : "#EFEFEF"
     },
-    "layout-3" : {
+    "Layout 3" : {
         "primary_txt" : "#fff",
         "primary_bg" : "#177245",
         "secondary_txt" : "#fff",
         "secondary_bg" : "#4F4F4F"
     },
-    "layout-4" : {
+    "Layout 4" : {
         "primary_txt" : "#4F4F4F",
         "primary_bg" : "#EFEFEF",
         "secondary_txt" : "#FFFFFF",
         "secondary_bg" : "#17324d"
     },
-    "layout-5" : {
+    "Layout 5" : {
         "primary_txt" : "#fff",
         "primary_bg" : "#17324d",
         "secondary_txt" : "#17324d",
         "secondary_bg" : "#FFC107"
     },
-    "layout-6" : {
+    "Layout 6" : {
         "primary_txt" : "#fff",
         "primary_bg" : "#0066cc",
         "secondary_txt" : "#e6ecf2",
         "secondary_bg" : "#17324d"
     },
-    "layout-7" : {
+    "Layout 7" : {
         "primary_txt" : "#fff",
         "primary_bg" : "#404040",
         "secondary_txt" : "#404040",
         "secondary_bg" : "#FFC107"
     },
-    "layout-8" : {
+    "Layout 8" : {
         "primary_txt" : "#fff",
         "primary_bg" : "#404040",
         "secondary_txt" : "#404040",
         "secondary_bg" : "#00BCD4"
     },
-    "layout-9" : {
+    "Layout 9" : {
         "primary_txt" : "#fff",
         "primary_bg" : "#404040",
         "secondary_txt" : "#404040",
         "secondary_bg" : "#8BC34A"
     },
-    "layout-10" : {
+    "Layout 10" : {
         "primary_txt" : "#0066cc",
         "primary_bg" : "#EFEFEF",
         "secondary_txt" : "#EFEFEF",
