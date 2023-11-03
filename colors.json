@@ -58,5 +58,17 @@
         "primary_bg" : "#EFEFEF",
         "secondary_txt" : "#EFEFEF",
         "secondary_bg" : "#0066cc"
+    },
+     "Inverno" : {
+        "primary_txt" : "#fff",
+        "primary_bg" : "#03045E",
+        "secondary_txt" : "#CAF0F8",
+        "secondary_bg" : "#0077B6"
+    },
+     "Estate" : {
+        "primary_txt" : "#fff",
+        "primary_bg" : "#F08080",
+        "secondary_txt" : "#FFDAB9",
+        "secondary_bg" : "#F8AD9D"
     }
 }
