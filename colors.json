@@ -68,7 +68,7 @@
      "Estate" : {
         "primary_txt" : "#fff",
         "primary_bg" : "#F08080",
-        "secondary_txt" : "#FFDAB9",
+        "secondary_txt" : "#FFF",
         "secondary_bg" : "#F8AD9D"
     }
 }
