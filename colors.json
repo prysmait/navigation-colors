@@ -73,8 +73,8 @@
     },
     "1 Bello Prysma" : {
         "primary_txt" : "#fff",
-        "primary_bg" : "#17C3B2",
+        "primary_bg" : "#227C9D",
         "secondary_txt" : "#FFF",
-        "secondary_bg" : "#227C9D"
+        "secondary_bg" : "#17C3B2"
     }
 }
