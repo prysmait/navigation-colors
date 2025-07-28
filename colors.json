@@ -70,5 +70,11 @@
         "primary_bg" : "#F08080",
         "secondary_txt" : "#FFF",
         "secondary_bg" : "#F8AD9D"
+    },
+    "Bello Prysma" : {
+        "primary_txt" : "#fff",
+        "primary_bg" : "#17C3B2",
+        "secondary_txt" : "#FFF",
+        "secondary_bg" : "#227C9D"
     }
 }
